@@ -1,0 +1,4 @@
+﻿  RegulatexExpression.cpp
+C:\Users\bogst\OneDrive\Desktop\AFD - Expresii Regulate\AFD - Expresii Regulate\RegulatexExpression.cpp(10,40): warning C4101: 'e': unreferenced local variable
+C:\Users\bogst\OneDrive\Desktop\AFD - Expresii Regulate\AFD - Expresii Regulate\RegulatexExpression.cpp(64,101): warning C4552: '-': result of expression not used
+  AFD - Expresii Regulate.vcxproj -> C:\Users\bogst\OneDrive\Desktop\AFD - Expresii Regulate\x64\Debug\AFD - Expresii Regulate.exe

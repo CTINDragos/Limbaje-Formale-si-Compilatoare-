@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\bogst\OneDrive\Desktop\Tema2IDCGrammar\Tema2IDCGrammar\Source.cpp(20,2): warning C4144: '!=': relational expression as switch expression
+C:\Users\bogst\OneDrive\Desktop\Tema2IDCGrammar\Tema2IDCGrammar\Source.cpp(27,2): warning C4808: case '2' is not a valid value for switch condition of type 'bool'
+C:\Users\bogst\OneDrive\Desktop\Tema2IDCGrammar\Tema2IDCGrammar\Source.cpp(34,2): warning C4808: case '3' is not a valid value for switch condition of type 'bool'
+C:\Users\bogst\OneDrive\Desktop\Tema2IDCGrammar\Tema2IDCGrammar\Source.cpp(39,2): warning C4808: case '4' is not a valid value for switch condition of type 'bool'
+C:\Users\bogst\OneDrive\Desktop\Tema2IDCGrammar\Tema2IDCGrammar\Source.cpp(44,2): warning C4808: case '5' is not a valid value for switch condition of type 'bool'
+C:\Users\bogst\OneDrive\Desktop\Tema2IDCGrammar\Tema2IDCGrammar\Source.cpp(53,2): warning C4808: case '6' is not a valid value for switch condition of type 'bool'
+C:\Users\bogst\OneDrive\Desktop\Tema2IDCGrammar\Tema2IDCGrammar\Source.cpp(63,2): warning C4808: case '7' is not a valid value for switch condition of type 'bool'
+  Tema2IDCGrammar.vcxproj -> C:\Users\bogst\OneDrive\Desktop\Tema2IDCGrammar\x64\Debug\Tema2IDCGrammar.exe
